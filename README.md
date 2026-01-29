@@ -89,7 +89,6 @@ The goal of this analysis is to extract meaningful insights using statistical su
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
