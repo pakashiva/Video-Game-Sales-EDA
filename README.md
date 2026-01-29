@@ -79,6 +79,14 @@ Comparative publisher analysis (Nintendo vs Sony vs EA)
 Predictive modeling on sales trends
 Interactive dashboards
 
+## 📁 Dataset Source
+The dataset used in this project was obtained from Kaggle:
+
+[🔗Video Game Sales Dataset – Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
+This dataset contains global video game sales data across platforms, genres, publishers, and regions.
+
+
 👤 Author
 Shiva Prasad
 Aspiring Data Analyst / Data Scientist
